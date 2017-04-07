@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LauncherMovie</string>
+    <string name="movie">視頻</string>
+    <string name="music">音樂</string>
+    <string name="picture">圖庫</string>
+    <string name="file">文件夾</string>
+    <string name="setting">設置</string>
+    <string name="sound">音量</string>
+    <string name="language">語言</string>
+    <string name="screen">屏幕</string>
+
+</resources>

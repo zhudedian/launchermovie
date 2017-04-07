@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LauncherMovie</string>
+    <string name="movie">Movie</string>
+    <string name="music">Music</string>
+    <string name="picture">Picture</string>
+    <string name="file">File</string>
+    <string name="setting">Setting</string>
+    <string name="sound">Sound</string>
+    <string name="language">Language</string>
+    <string name="screen">Screen</string>
+
+</resources>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="1280dp"
+    android:layout_height="match_parent">
+
+    <com.ider.launchermovie.view.BaseRelativeLayout
+        android:id="@+id/movie"
+        android:focusable="true"
+        android:layout_marginTop="220dp"
+        android:layout_marginLeft="60dp"
+        android:layout_width="200dp"
+        android:layout_height="360dp"
+        android:background="@drawable/movie_back"
+        android:tag="1"/>
+    <com.ider.launchermovie.view.BaseRelativeLayout
+        android:id="@+id/music"
+        android:focusable="true"
+        android:layout_marginTop="220dp"
+        android:layout_marginLeft="280dp"
+        android:layout_width="220dp"
+        android:layout_height="360dp"
+        android:background="@drawable/music_back"
+        android:tag="2"/>
+    <com.ider.launchermovie.view.BaseRelativeLayout
+        android:id="@+id/picture"
+        android:focusable="true"
+        android:layout_marginTop="220dp"
+        android:layout_marginLeft="520dp"
+        android:layout_width="220dp"
+        android:layout_height="360dp"
+        android:background="@drawable/picture_back"
+        android:tag="3"/>
+    <com.ider.launchermovie.view.BaseRelativeLayout
+        android:id="@+id/folder"
+        android:focusable="true"
+        android:layout_marginTop="220dp"
+        android:layout_marginLeft="760dp"
+        android:layout_width="220dp"
+        android:layout_height="360dp"
+        android:background="@drawable/folder_back"
+        android:tag="4"/>
+    <com.ider.launchermovie.view.BaseRelativeLayout
+        android:id="@+id/setting"
+        android:focusable="true"
+        android:layout_marginTop="220dp"
+        android:layout_marginLeft="1000dp"
+        android:layout_width="220dp"
+        android:layout_height="360dp"
+        android:background="@drawable/setting_back"
+        android:tag="5"/>
+
+
+</RelativeLayout>

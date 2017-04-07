@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LauncherMovie</string>
+    <string name="movie">视频</string>
+    <string name="music">音乐</string>
+    <string name="picture">图库</string>
+    <string name="file">文件夹</string>
+    <string name="setting">设置</string>
+    <string name="sound">音量</string>
+    <string name="language">语言</string>
+    <string name="screen">屏幕</string>
+    <string name="no_permission">no permission</string>
+    <string name="fileexplorer">文件管理</string>
+    <string name="nomovie_notice">未找到可看电影</string>
+
+</resources>
